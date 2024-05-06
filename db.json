@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "value": "Walk the dog",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "value": "Finish work project",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "value": "Read a book",
+      "completed": true
+    },
+    {
+      "value": "Exercise",
+      "completed": true,
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "value": "Complete Redux",
+      "completed": true
+    },
+    {
+      "id": "c2ca",
+      "value": "play football",
+      "completed": "false"
+    },
+    {
+      "id": "49c3",
+      "value": "play cricket",
+      "completed": "false"
+    },
+    {
+      "id": "920e",
+      "value": "coding",
+      "completed": "false"
+    },
+    {
+      "id": "9188",
+      "value": "AddItem",
+      "completed": true
+    },
+    {
+      "id": "dbec",
+      "value": "NewTask2",
+      "completed": false
+    }
+  ]
+}
